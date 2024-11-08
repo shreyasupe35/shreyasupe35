@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
 
-Each badge link looks like `<img src="url" width="" height="" />`
+Each badge link looks like `<img src="https://api.badgr.io/public/assertions/vFMLLD8rTyWDF4aCzclRCQ?identity__email=shreyasupe510%40gmail.com" width="" height="" />`
 
 To customize them, simply copy one from the links below. And adjust the values in `width` and `height` as per your choice. And, make sure to use `px` or `rem`.
 
