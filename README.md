@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </details>
 
 
-https://gssoc.girlscript.tech/leaderboard?year=<2025>&username=<shreyasupe35>
+https://gssoc.girlscript.tech/leaderboard?year=2025&username=shreyasupe35
 
