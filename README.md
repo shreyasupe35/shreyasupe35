@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 </div>
 </details>
 
+
+https://gssoc.girlscript.tech/leaderboard?year=<2025>&username=<shreyasupe35>
+
