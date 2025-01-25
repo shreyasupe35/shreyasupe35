@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 
 
-https://github.com/user-attachments/assets/338681bd-e596-450c-9c02-a3654ee918eb
-
-
 
 
 
