@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![Green White Modern Photo Nature Motivation Facebook Post (1)](https://github.com/user-attachments/assets/e7a038f9-f4fc-4d3e-b334-357586fdac17)
+
+https://github.com/user-attachments/assets/338681bd-e596-450c-9c02-a3654ee918eb
+
+
+
+
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
