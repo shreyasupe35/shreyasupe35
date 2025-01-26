@@ -35,7 +35,7 @@
 # 🚀 My Tech Stack
 
 ### 🌐 **Languages & Frameworks**
-- - <i class="fa fa-java" style="font-size:40px;color:#f8981d;"></i> **Java** 
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup.png" width="40" height="40"/> **Java**  
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> **HTML5**  
 - <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> **CSS3**  
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> **JavaScript**  
