@@ -1,19 +1,18 @@
-## Hi there 👋
+## Hi 👋,I'm Shreya 
 
-<!--
-**shreyasupe35/shreyasupe35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Javascript,Nodejs,DSA,Python,MERN.
+- 🌱 I’m currently learning Javascript.
+- 👯 I’m looking to collaborate on MERN stack projects.
+- 💬 Ask me about Web technologies and Artifical Intelligence.
+- 📫 How to reach me:<a email="shreyasupe510@gmail.com"><img src="![image](https://github.com/user-attachments/assets/9f886347-ea99-4363-9c03-71fcb59273a1)
+"></img></a>.
+- 📄 Know about my experiences: <a href=""><img src=""></img></a>.
+- 😄 Pronouns: She.
+- ⚡ Fun fact: I love to do painting.
+
 
 ![Green White Modern Photo Nature Motivation Facebook Post (1)](https://github.com/user-attachments/assets/e35864ba-60e1-49ef-883a-4f5aec7aeabf)
 
