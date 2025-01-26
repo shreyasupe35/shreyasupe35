@@ -30,10 +30,26 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shreyasupe35&theme=onedark)
 
 
-### Latest GitHub Activity
+# My Tech Stack
 
-<!-- GitHub Activity Graph -->
-[![Shreya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyasupe35&theme=github)](https://github.com/shreyasupe35/github-readme-activity-graph)
+### Languages & Frameworks
+- ![Java](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup.png) Java
+- ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png) JavaScript
+- ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) Python
+
+### Libraries & Frameworks
+- ![React](https://img.icons8.com/ios-filled/50/000000/react-native.png) React
+- ![Redux](https://img.icons8.com/ios-filled/50/000000/redux.png) Redux
+- ![Node.js](https://img.icons8.com/ios-filled/50/000000/nodejs.png) Node.js
+- ![Express.js](https://img.icons8.com/ios-filled/50/000000/express.png) Express.js
+- ![TailwindCSS](https://img.icons8.com/ios-filled/50/000000/tailwindcss.png) TailwindCSS
+- ![TensorFlow](https://img.icons8.com/ios-filled/50/000000/tensorflow.png) TensorFlow
+
+### Databases & Tools
+- ![MongoDB](https://img.icons8.com/ios-filled/50/000000/mongodb.png) MongoDB
+- ![Postman](https://img.icons8.com/ios-filled/50/000000/postman.png) Postman
 
 
 
