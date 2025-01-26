@@ -9,9 +9,9 @@
 - 👯 I’m looking to collaborate on MERN stack projects.
 - 💬 Ask me about Web technologies and Artifical Intelligence.
 - 📫 How to reach me:[📧](mailto:shreyasupe510@gmail.com)
-- 📄 Know about my experiences:.[📄](https://your-website.com/resume.pdf)
+- 📄 Know about my experiences:.[📄](https://drive.google.com/file/d/1KAmuBEmvU60zzEtDZqI7_Jr2YSKr5sk6/view?usp=sharing)
 - 😄 Pronouns: She.
-- ⚡ Fun fact: I love to do painting.[🎨]
+- ⚡ Fun fact: I love to do painting.🎨
 
 
 
