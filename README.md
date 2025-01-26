@@ -10,7 +10,8 @@
 - 💬 Ask me about Web technologies and Artifical Intelligence.
 - 📫 How to reach me:[Email Me](mailto:shreyasupe510@gmail.com)
 
-- 📄 Know about my experiences:.[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+- 📄 Know about my experiences:.[![Resume Icon](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://your-website.com/resume.pdf)
+
 
 - 😄 Pronouns: She.
 - ⚡ Fun fact: I love to do painting.
