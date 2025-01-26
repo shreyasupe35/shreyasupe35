@@ -32,24 +32,27 @@
 
 # 🚀 My Tech Stack
 
+# 🚀 My Tech Stack
+
 ### 🌐 **Languages & Frameworks**
-- <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup.png" width="40" height="40"/> **Java**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" width="40" height="40"/> **HTML5**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" width="40" height="40"/> **CSS3**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" width="40" height="40"/> **JavaScript**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/python.png" width="40" height="40"/> **Python**
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup.png" width="40" height="40"/> **Java**  
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/> **HTML5**  
+- <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> **CSS3**  
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/> **JavaScript**  
+- <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/> **Python**
 
 ### 💻 **Libraries & Frameworks**
-- <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" width="40" height="40"/> **React**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/redux.png" width="40" height="40"/> **Redux**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" width="40" height="40"/> **Node.js**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/express.png" width="40" height="40"/> **Express.js**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/tailwindcss.png" width="40" height="40"/> **TailwindCSS**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" width="40" height="40"/> **TensorFlow**
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> **React**  
+- <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40"/> **Redux**  
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/> **Node.js**  
+- <img src="https://img.icons8.com/color/48/000000/express.png" width="40" height="40"/> **Express.js**  
+- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40" height="40"/> **TailwindCSS**  
+- <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40" height="40"/> **TensorFlow**
 
 ### 🛠️ **Tools & Databases**
-- <img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" width="40" height="40"/> **MongoDB**  
-- <img src="https://img.icons8.com/ios-filled/50/000000/postman.png" width="40" height="40"/> **Postman**  
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40"/> **MongoDB**  
+- <img src="https://img.icons8.com/color/48/000000/postman.png" width="40" height="40"/> **Postman**  
+
 
 
 
