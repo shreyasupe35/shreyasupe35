@@ -54,13 +54,11 @@
 - <img src="https://img.icons8.com/color/48/000000/postman.png" width="40" height="40"/> **Postman**  
 
 
-# 🚀 LeetCode Stats
-
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?label=Problems%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode.com%2Fu%2F78shreyasupe%2Fstats%2Fjson)
 
 
+[![LeetCode](https://img.icons8.com/ios-filled/50/000000/leetcode.png)]([https://leetcode.com/u/78shreyasupe/])
 
-Feel free to check out my [LeetCode profile](https://leetcode.com/u/78shreyasupe/).
+
 
 
 
