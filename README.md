@@ -33,7 +33,8 @@
 ### Latest GitHub Activity
 
 <!-- GitHub Activity Graph -->
-[![Shreya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyasupe35&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shreya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyasupe35&theme=github)](https://github.com/shreyasupe35/github-readme-activity-graph)
+
 
 
 
