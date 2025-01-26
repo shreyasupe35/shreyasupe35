@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on MERN stack projects.
 - 💬 Ask me about Web technologies and Artifical Intelligence.
-- 📫 How to reach me:[![](![gmail](https://github.com/user-attachments/assets/26646f67-2642-410b-9618-6fd5489bbea8))](mailto:shreyasupe510@gmail.com?subject=Hello%20Shreya&body=I%20have%20a%20query.)
+- 📫 How to reach me:[![Gmail](![gmail](https://github.com/user-attachments/assets/26646f67-2642-410b-9618-6fd5489bbea8))](mailto:shreyasupe510@gmail.com?subject=Hello%20Shreya&body=I%20have%20a%20query.)
 - 📄 Know about my experiences:.
 - 😄 Pronouns: She.
 - ⚡ Fun fact: I love to do painting.
