@@ -17,7 +17,19 @@
 
 
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasupe35&show_icons=true&hide_title=true&count_private=true)
+# GitHub Stats
+
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasupe35&show_icons=true&hide_title=true&count_private=true&theme=blue-green)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasupe35&layout=compact&theme=blue-green)
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyasupe35&theme=blue-green)
+
+### GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=shreyasupe35&theme=onedark)
+
 
 
 
