@@ -56,7 +56,8 @@
 
 # 🚀 LeetCode Stats
 
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?label=Problems%20Solved&query=%24.totalSolved&url=https%3A%2F%2Fleetcode.com%2Fu%2F78shreyasupe%2Fstats%2Fjson)
+![LeetCode Progress](https://progress-bar.dev/75/?scale=100&title=LeetCode%20Solved&color=green)
+
 
 Feel free to check out my [LeetCode profile](https://leetcode.com/u/78shreyasupe/).
 
