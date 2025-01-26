@@ -24,11 +24,16 @@
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasupe35&layout=compact&theme=blue-green)
 
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyasupe35&theme=blue-green)
+
 
 ### GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shreyasupe35&theme=onedark)
+
+
+### Latest GitHub Activity
+
+<!-- GitHub Activity Graph -->
+[![Shreya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyasupe35&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
