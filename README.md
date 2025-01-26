@@ -30,6 +30,8 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shreyasupe35&theme=onedark)
 
 
+![GitHub Repositories](https://img.shields.io/badge/dynamic/json?label=repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshreyasupe35)
+
 # 🚀 My Tech Stack
 
 
