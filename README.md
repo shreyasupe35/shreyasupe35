@@ -30,26 +30,27 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shreyasupe35&theme=onedark)
 
 
-# My Tech Stack
+# 🚀 My Tech Stack
 
-### Languages & Frameworks
-- ![Java](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup.png) Java
-- ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png) JavaScript
-- ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) Python
+### 🌐 **Languages & Frameworks**
+- <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup.png" width="40" height="40"/> **Java**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" width="40" height="40"/> **HTML5**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" width="40" height="40"/> **CSS3**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" width="40" height="40"/> **JavaScript**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/python.png" width="40" height="40"/> **Python**
 
-### Libraries & Frameworks
-- ![React](https://img.icons8.com/ios-filled/50/000000/react-native.png) React
-- ![Redux](https://img.icons8.com/ios-filled/50/000000/redux.png) Redux
-- ![Node.js](https://img.icons8.com/ios-filled/50/000000/nodejs.png) Node.js
-- ![Express.js](https://img.icons8.com/ios-filled/50/000000/express.png) Express.js
-- ![TailwindCSS](https://img.icons8.com/ios-filled/50/000000/tailwindcss.png) TailwindCSS
-- ![TensorFlow](https://img.icons8.com/ios-filled/50/000000/tensorflow.png) TensorFlow
+### 💻 **Libraries & Frameworks**
+- <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" width="40" height="40"/> **React**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/redux.png" width="40" height="40"/> **Redux**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" width="40" height="40"/> **Node.js**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/express.png" width="40" height="40"/> **Express.js**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/tailwindcss.png" width="40" height="40"/> **TailwindCSS**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" width="40" height="40"/> **TensorFlow**
 
-### Databases & Tools
-- ![MongoDB](https://img.icons8.com/ios-filled/50/000000/mongodb.png) MongoDB
-- ![Postman](https://img.icons8.com/ios-filled/50/000000/postman.png) Postman
+### 🛠️ **Tools & Databases**
+- <img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" width="40" height="40"/> **MongoDB**  
+- <img src="https://img.icons8.com/ios-filled/50/000000/postman.png" width="40" height="40"/> **Postman**  
+
 
 
 
